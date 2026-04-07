@@ -3,8 +3,8 @@ A  smart, AI powered Full-Stack Expense Tracker featuring NLP and OCR, built wit
 
 ## ✨ Core Features
 *   **Computer Vision (OCR):** Upload physical receipts, and the system uses Tesseract-OCR and RegEx heuristics to extract the Date, Merchant, and Total Cost.
-*   **Natural Language Categorization (NLP):** Whenever you log an expense, a Scikit-Learn Machine Learning pipeline (TF-IDF + Naive Bayes) instantly processes your text and correctly predicts the category tag (e.g. `Uber` -> `Transportation`, `Starbucks` -> `Food & Dining`).
-*   **Predictive Spending Dashboards:** The system calculates real-time spending velocity and accurately projects an End-of-Month expenditure estimate.
+*   **Natural Language Categorization (NLP):** Whenever an expense is logged, a Scikit Learn Machine Learning pipeline (TF-IDF + Naive Bayes) instantly processes the text and correctly predicts the category tag (e.g. `Uber` -> `Transportation`, `Starbucks` -> `Food & Dining`).
+*   **Predictive Spending Dashboards:** The system calculates real time spending velocity and accurately projects an End of Month expenditure estimate.
 *   **Modern 'Glassmorphism' Frontend:** Built using React, Vite, Recharts, and TailwindCSS v4.
 
 ## 💻 Technology Stack
