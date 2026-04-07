@@ -1,4 +1,4 @@
-# SpendSense 💸🤖
+# SpendSense
 
 SpendSense is a smart, AI-powered Full-Stack Expense Tracker. Developed as a final year BTech showcase, it demonstrates the seamless integration of machine learning inside a modern web application stack.
 
