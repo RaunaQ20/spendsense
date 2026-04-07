@@ -1,0 +1,17 @@
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Databases and temporary files
+spend_sense.db
+temp_uploads/
+expense_model.pkl
+
+# OS generated files
+.DS_Store
