@@ -1,6 +1,5 @@
 # SpendSense
-
-SpendSense is a smart, AI-powered Full-Stack Expense Tracker. Developed as a final year BTech showcase, it demonstrates the seamless integration of machine learning inside a modern web application stack.
+A  smart, AI powered Full-Stack Expense Tracker featuring NLP and OCR, built with React, FastAPI and Scikit Learn. 
 
 ## ✨ Core Features
 *   **Computer Vision (OCR):** Upload physical receipts, and the system uses Tesseract-OCR and RegEx heuristics to extract the Date, Merchant, and Total Cost.
@@ -37,4 +36,4 @@ npm run dev
 Visit the displayed local URL (typically `http://localhost:5173`).
 
 ---
-Developed by [RaunaQ20](https://github.com/RaunaQ20) | Final Year BTech CS Project
+Developed by [RaunaQ20](https://github.com/RaunaQ20). 
