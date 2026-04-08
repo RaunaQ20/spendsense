@@ -58,7 +58,6 @@ def extract_receipt_data(image_path: str) -> dict:
     }
     
     # Simple regex for amount (e.g. Total: $12.34 or 12.34)
-    # Looking for 'Total' nearby an amount is robust, but we will just look for the largest currency format for simplicity.
     amounts = re.findall(r'\$?\s?(\d+\.\d{2})', text)
     if amounts:
         # Convert to float and take the maximum (often the total)
