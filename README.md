@@ -7,7 +7,7 @@ A  smart, AI powered Full-Stack Expense Tracker featuring NLP and OCR, built wit
 *   **Predictive Spending Dashboards:** The system calculates real time spending velocity and accurately projects an End of Month expenditure estimate.
 *   **Modern 'Glassmorphism' Frontend:** Built using React, Vite, Recharts, and TailwindCSS v4.
 
-## 💻 Technology Stack
+## Technology Stack
 *   **Frontend:** ReactJS, Vite, Tailwind CSS v4, Recharts, Lucide-React
 *   **Backend:** Python 3, FastAPI, SQLAlchemy
 *   **Database:** SQLite 
